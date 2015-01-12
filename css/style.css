@@ -1,0 +1,33 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+#cek_domain {
+	margin: 240px;
+	font-size:28px;
+}
+
+.inputa {
+	font-family: "Verdana";
+	font-size: 28px;
+	color: #000;
+	text-decoration: none;
+	padding: 5px;
+	border: 1px solid #009BDB;
+}
+
+.hasildomain {
+	width: 500px;
+	padding: 10px;
+	background: #EEE;
+	font-size: 16px;
+}
+
+.font-green {
+	color: green;
+}
+
+.font-red {
+	color: red;
+}
